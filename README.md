@@ -8,12 +8,11 @@ The live app is deployed at:
  The WordPress backend is at:
  https://projects.headless.darrenlittlejohn.com
 
- ToDo:
+ ## ToDo
 
- Add React Components:
-
- Admin Login
- New Post
+ * Add React Components:
+  * Admin Login
+  * New Post
  Edit Post
  Display by Category, Rating, Release Year
  Search
