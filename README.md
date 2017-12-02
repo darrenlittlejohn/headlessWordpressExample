@@ -4,6 +4,22 @@ The live app is deployed at:
 
  https://react-headless-wp.herokuapp.com/
 
+ The WordPress backend is at:
+ https://projects.headless.darrenlittlejohn.com
+
+ ToDo:
+
+ Add React Components:
+
+ Admin Login
+ New Post
+ Edit Post
+ Display by Category, Rating, Release Year
+ Search
+ CSS Grid Layout
+ Refactor with a different set of Custom Post Types for something other than Movies.
+
+
 The tutorial used for this project is:
 
 https://dev.to/jchiatt/headless-wordpress-with-react
