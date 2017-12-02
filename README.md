@@ -1,3 +1,4 @@
+# Headless Wordpress Example
 This site is an example of using a Headless\Decoupled Wordpress installation. The front end is built with React which calls a WP API to access the Wordpress back end.
 
 The live app is deployed at:
